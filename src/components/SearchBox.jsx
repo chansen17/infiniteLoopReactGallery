@@ -16,7 +16,7 @@ const Input = styled.input`
 
 const SearchBox = ({ images }) => {
     return (
-        <Input placeholder="Search for the perfect photo.." />
+        <Input placeholder="Under Construction :(" />
     );
 }
 

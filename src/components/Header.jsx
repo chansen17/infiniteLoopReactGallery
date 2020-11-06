@@ -28,9 +28,10 @@ const Para = styled.p`
 const Header = () => {
     return (
         <Heading>
-            <H1>Header</H1>
+            <H1>Reactfinite</H1>
             <Para>The internet’s source of freely-usable images.</Para>
-            <Para>Powered by creators everywhere.</Para>
+            <Para>Powered by Chris Hansen.</Para>
+            <Para>Courtesty of Unsplashed API</Para>
         </Heading>
     );
 }

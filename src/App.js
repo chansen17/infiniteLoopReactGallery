@@ -73,7 +73,7 @@ function App() {
       <GridWrap>
       {images.map(image => {
           return (
-            <UnsplashedImage imageUrl={image.urls.thumb} key={image.id} />
+            <UnsplashedImage imageUrl={image.urls.small} key={image.id} />
           )
         })}
       </GridWrap>
